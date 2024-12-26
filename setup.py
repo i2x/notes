@@ -9,7 +9,7 @@ setup(
     description='A reusable Django app for managing notes.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/i2x/notes_project',  # Update with your repository URL
+    url='https://github.com/i2x/notes',  # Update with your repository URL
     author='Pongjun',
     author_email='s6601012610067@kmutnb.ac.th',  
     classifiers=[
