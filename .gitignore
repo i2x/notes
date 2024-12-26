@@ -1,0 +1,35 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Django specific
+*.mo
+*.pot
+*.pyc
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Operating system files
+Thumbs.db
+
+migrations/__pycache__
